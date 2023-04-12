@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My Name is Wilmer
 
 <!--
 **wilmer-1/wilmer-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌍 I'm based in Berkeley, CA
+🖥️ See my portfolio at [Who am I]() 
+📫 You can contact me at wilmercabrera@berkeley.edu
+🌱 I'm learning React, Angular, AWS
+⚡ Outside of tech, I like being outdoors, hiking, trying new food, reading about finance, as well as focusing on health & wellness.
