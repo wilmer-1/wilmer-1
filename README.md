@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌍 I'm based in Berkeley, CA
-- 🖥️ See my portfolio at Who am I
-- 📫 You can contact me at wilmercabrera@berkeley.edu
+- 🖥️ See my portfolio at [Who am I](https://wilmer-1.github.io/wilmer-1/) 
+- 📫 You can contact me at [wilmercabrera@berkeley.edu](mailto:wilmercabrera@berkeley.edu)
 - 🌱 I'm learning React, Angular, AWS
 - ⚡ Outside of tech, I like being outdoors, hiking, trying new food, reading about finance, as well as focusing on health & wellness.
